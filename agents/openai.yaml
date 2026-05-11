@@ -1,0 +1,7 @@
+interface:
+  display_name: "Merit Agent Access"
+  short_description: "Upload, access, and download Merit skill packages"
+  default_prompt: "Use $merit-agent-access to upload a skill package, request access, or download an approved Merit skill package."
+
+policy:
+  allow_implicit_invocation: true

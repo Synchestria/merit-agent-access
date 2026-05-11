@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "deliveryMode": "package_download",
+  "requiresSettlement": true,
+  "notes": "This package is delivered as a complete agentskills.io skill. Merit records access settlement; execution happens in the installing agent environment."
+}
